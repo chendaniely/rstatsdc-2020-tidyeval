@@ -148,7 +148,7 @@ penguins[, "species", drop = TRUE]
 
 ---
 
-# Selecting columns: `base::select()`
+# Selecting columns: `base::subset()`
 
 .pull-left[
 ```{r}
