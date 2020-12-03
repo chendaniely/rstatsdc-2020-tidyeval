@@ -1,0 +1,30 @@
+div.hello {
+    font-size: 600px;
+}
+
+div.demo {
+    font-size: 200px;
+}
+
+div.halfLink {
+    font-size: 18px;
+}
+
+.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.tiny { font-size: 50% }
+.small { font-size: 70% }
+.large { font-size: 130% }
+.huge { font-size: 100px }
